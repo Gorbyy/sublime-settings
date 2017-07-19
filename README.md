@@ -1,6 +1,6 @@
 # sublime-settings
 
-## Pulling down to other machines...
+## Pulling down to other machines
 
 Quit Sublime Text 3, then do the following:
 
